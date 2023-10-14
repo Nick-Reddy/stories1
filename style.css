@@ -1,0 +1,42 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.stories-button{
+    height: 30px;
+    width: 200px;
+    position: absolute;
+    top: 45%;
+    left: 47%
+}
+.stories-button-text{
+    padding: 20px; 
+    height: 30px;
+    width: 200px;
+    background-color: lime;
+    border-radius: 25px;
+    text-align: center;
+}
+.stories-button-link{
+    color: white;
+    text-decoration: none;
+}
+.stories-list{
+    position:absolute;
+    left:35%;
+    top:40%;
+    padding:20px;
+    height:180px;
+    width:600px;
+    color:darkolivegreen; 
+    background-color:rgba(217,230,80,0.8);
+    border:5px solid #228b22;
+  }
+  
+  .stories-link{
+    text-decoration:none;
+    color:darkolivegreen;
+  }
+body{
+background-image: url ('https://www.google.com/url?sa=i&url=https%3A%2F%2Fliterallystories2014.com%2F&psig=AOvVaw2KX9S-Qp-z10R-bKqYy1g5&ust=1696777529682000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjProeb5IEDFQAAAAAdAAAAABAJ');background-repeat: no-repeat; background-position: fixed; background-size: cover; width:100vh;height:100%;
+}
